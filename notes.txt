@@ -1,0 +1,7 @@
+import data file (excel, csv, tsv, etc)
+select whether headers are present or to create headers
+	if creating headers name them
+select whether data is organized in rows or columns
+after importing data have 'make graph button"
+	open new window with selection for type of graph/chart
+	select x/y axis of chart if necessary
